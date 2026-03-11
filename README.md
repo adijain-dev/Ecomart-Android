@@ -102,19 +102,19 @@ com.store.stylish
 
 ### Home Screen
 
-![Home](drawable/home.png)
+![Home](screenshots/home.png)
 
 ### Product Screen
 
-![Products](drawable/products.png)
+![Products](screenshots/products.png)
 
 ### Cart Screen
 
-![Cart](drawable/cart.png)
+![Cart](screenshots/cart.png)
 
 ### Wishlist Screen
 
-![Wishlist](drawable/wishlist.png)
+![Wishlist](screenshots/wishlist.png)
 
 ---
 
